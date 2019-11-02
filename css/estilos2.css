@@ -1,0 +1,258 @@
+
+body{
+	background:linear-gradient( rgba(8,167,225,1) 0%, rgba(38,110,182,1) 36%, rgba(58,71,157,1) 73%, rgba(69,47,140,1) 100%);
+  background-repeat: no-repeat;
+margin: 0px;
+}
+/*-----------------------index----------------------*/
+.fondo2{
+	height: 750px;
+}
+
+.contenedor{
+   background-color: white;
+     width: 421px;
+    height: 609px;
+}
+
+.cont-2{
+  margin-left: 84px;
+  margin-top: 100px;
+}
+.logo{
+  position: relative;
+  top: 50px;
+   position: absolute;
+    }
+
+.cont-3{
+
+}
+.sesion{
+
+   font-weight: bold;
+   width: 200px;
+   margin: 0 35px 20px ;
+   height: 35px;
+   padding: 6px 15px;
+   border-radius: 5px;
+   outline: none;
+   border: none;
+   background: #F6F7F9;
+   color: #748194;
+   font-size: 14px;
+}
+
+.contraseña{
+     font-weight: bold;
+   width: 200px;
+   margin: 0 35px 20px ;
+   height: 35px;
+   padding: 6px 15px;
+   border-radius: 5px;
+   outline: none;
+   border: none;
+   background: #F6F7F9;
+   color: #748194;
+   font-size: 14px;
+}
+.button{
+  position: absolute;
+    left: 50px;
+}
+
+.enlace-nuevo{
+  position: relative;
+    bottom: 15px;
+    right: 27px;
+}
+.p-contraseña{
+  text-align: center;
+}
+/*------------------ regsitro ----------------------*/
+.c2{
+   background-color: white;
+   width: 421px;
+    height: 609px;
+   margin-left: 859px;
+   display:inline-block;
+
+}
+.c3{
+  text-align: center;
+   margin-top: 196px;
+  margin-left: 10px;
+
+}
+
+.signup1{
+   color:#748194;
+   font-size:30px;
+   }
+a{
+   text-decoration: none;
+}
+
+.username{
+   font-weight: bold;
+   width: 200px;
+   margin: 0 35px 20px ;
+   height: 35px;
+   padding: 6px 15px;
+   border-radius: 5px;
+   outline: none;
+   border: none;
+   background: #F6F7F9;
+   color: #748194;
+   font-size: 14px;
+}
+.btn{
+   font-weight: bold;
+   width: 230px;
+   margin: 0 35px 20px ;
+   height: 45px;
+   padding: 6px 15px;
+   border-radius: 5px;
+   outline: none;
+   border: none;
+   background: #EE9BA3;
+   color: white;
+   font-size: 14px;
+   margin-top: 20px;
+}
+
+
+/*------------------ Pase de tarjeta ----------------------*/
+
+.conteiner-tarjeta{
+   background-color: white;
+   width: 421px;
+    height: 750px;
+   display:inline-block;
+
+}
+
+
+.logo-tarjeta img{
+  width: 68%;
+    margin-top: 101px;
+    margin-left: 62px;
+}
+
+.text-1{
+  text-align: center;
+  color :#748194;
+  font-family: helvetica;
+  padding-top: 50px;
+}
+
+.img-tarjeta img{
+	width: 399px;
+ 	height: 336px;
+}
+
+.img-tarjeta{
+  position: relative;
+  top: 17px;
+  margin-left: -24px;
+
+
+}
+
+/*------------------ Confirmacion ----------------------*/
+
+.conteiner-confirmacion{
+   background-color: white;
+   width: 421px;
+    height: 750px;
+   display:inline-block;
+
+}
+
+.text-2{
+  text-align: center;
+  color :#748194;
+  font-family: helvetica;
+  padding-top: 90px;
+}
+
+
+.btn-confirma{
+  font-weight: bold;
+    width: 285px;
+    margin: 0px 65px 20px;
+    height: 42px;
+    padding: 6px 15px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    background: #151414;
+    color: white;
+    font-size: 14px;
+    margin-top: 68px;
+    cursor: pointer;
+}
+
+/*------------------ Home User ----------------------*/
+
+.img-usuario{
+    position: relative;
+    margin-left: 147px;
+    top: 77px;
+    display: flex;
+}
+
+.perfil{
+	height:133px;
+}
+
+.text-bienv{
+  left: 31px;
+  position: relative;
+  top:27px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.btn-user{
+  text-align: center;
+  position: relative;
+  top: 125px;
+}
+
+.btn-user1{
+      font-weight: bold;
+    margin: 0px 65px 20px;
+    width: 555px;
+    height: 58px;
+    padding: 6px 15px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    background: white;
+    color: black;
+    font-size: 21px;
+    margin-top: 68px;
+    cursor: pointer;
+}
+
+
+/*------------------ Reserva-calen ----------------------*/
+.conteiner-reser{
+   background-color: white;
+   width: 466px;
+    height: 609px;
+   display:inline-block;
+
+}
+
+.user-calen{
+      text-align: center;
+    margin-top: 25px
+}
+
+.conteiner-reser h2{
+   font-family: sans-serif;
+   margin-left: 21px;
+
+}
