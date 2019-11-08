@@ -205,11 +205,15 @@ a{
 .perfil{
 	height:133px;
 }
-
+.img5{
+	height: 50px;
+	margin-left: 300px;
+	margin-top: 41px;
+}
 .text-bienv{
-  left: 31px;
+  left: 52px;
   position: relative;
-  top:27px;
+  top:41px;
   font-family: sans-serif;
   color: white;
 }
